@@ -1,0 +1,15 @@
+..\obj\gas.o: ..\HARDWARE\GAS\gas.c
+..\obj\gas.o: ..\HARDWARE\GAS\gas.h
+..\obj\gas.o: ..\USER\stm32f10x.h
+..\obj\gas.o: ..\CORE\core_cm3.h
+..\obj\gas.o: D:\keil5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\gas.o: ..\USER\system_stm32f10x.h
+..\obj\gas.o: ..\USER\stm32f10x_conf.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\gas.o: ..\USER\stm32f10x.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\gas.o: ..\FWLIB\STM32F10x_FWLib\inc\misc.h
